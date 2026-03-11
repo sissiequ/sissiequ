@@ -33,29 +33,4 @@ A real-time object detection system built with OpenCV & Python.
 
 Optimized for logistics, warehouse management, and automated inventory counting.
 
-GitHub Stats
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsissiequ%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="Sissie's GitHub stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsissiequ%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Langs" />
-</p>
-
-Connect with Me
-
-<p align="left">
-<a href="https://www.google.com/search?q=https://sissiequ.github.io/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Personal%2520Site-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio" />
-</a>
-<a href="mailto:your-email@uwaterloo.ca">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact%2520Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
-
-<p align="center">
-<i>"Code is where engineering meets art."</i>
-</p>
