@@ -1,7 +1,7 @@
 Hi there, I'm Sissie Qu 👋
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D200%26section%3Dheader%26text%3DSissie%2520Qu%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D38" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dcyberpunk%26color%3Dauto%26height%3D250%26section%3Dheader%26text%3DSissie%2520Qu%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D45" />
 </p>
 
 🚀 About Me
