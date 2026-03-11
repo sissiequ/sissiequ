@@ -5,19 +5,21 @@ Hi there, I'm Sissie Qu 👋
 <img src="my_background.png" alt="Sissie Qu Banner" width="100%" />
 </p>
 
-🚀 About Me
+About Me
 
-🎓 Computer Engineering Student @ University of Waterloo
+Computer Engineering Student @ University of Waterloo
 
-💻 Passionate about AI Algorithms, Software Development, and UI/UX Design
+Passionate about AI Algorithms, Software Development, and UI/UX Design
 
-🎨 Also a Freelance Digital Artist specializing in character design and illustrations
+Also a Freelance Digital Artist specializing in character design and illustrations
 
-🛠 My Latest Projects
+My Latest Projects
 
-🌟 CoopSync AI
+CoopSync AI
 
 An intelligent platform for internship matching and resume optimization.
+
+First Prize Winner & Team Captain @ EngHacks 2024
 
 Tech Stack: Python, AI APIs (LLMs), Web Integration
 
@@ -25,13 +27,13 @@ Key Feature: Leverages AI to help students match with the best co-op opportuniti
 
 Watch Demo Video (Click the "Sparkle" icon on my portfolio site to play!)
 
-📦 AI Cargo Scanning System
+AI Cargo Scanning System
 
 A real-time object detection system built with OpenCV & Python.
 
 Optimized for logistics, warehouse management, and automated inventory counting.
 
-📊 GitHub Stats
+GitHub Stats
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsissiequ%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue" alt="Sissie's GitHub stats" />
@@ -43,7 +45,7 @@ Optimized for logistics, warehouse management, and automated inventory counting.
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsissiequ%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Langs" />
 </p>
 
-🎨 Connect with Me
+Connect with Me
 
 <p align="left">
 <a href="https://www.google.com/search?q=https://sissiequ.github.io/" target="_blank">
